@@ -1,4 +1,4 @@
-# 💫 About Me:
+## 💫 About Me:
 I'm currently learning web3 & blockchain development / smart contracts.<br><br>Atualmente estou estudando web3 e desenvolvimento de blockchain / contratos inteligentes.<br><br>
 
 
